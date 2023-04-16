@@ -1,0 +1,89 @@
+Description (Do not translate)
+
+
+Ταψίδεψε με δυσκολία στο διάστημα στο [b]SpaceSlog[/b]. Μία δύσκολη επιστημονικής φαντασίας προσομοίωση διαστημοπλοίου που δίνει έμφαση στην καταστευή σκάφους, την αλληλεπίδραση με πλήρωμα και την εξερεύνηση. Εμπνευσμένο από παιχνίδια όπως το Rimworld, Starship Theory, Dwarf Fortress και το X-COM καθώς και άλλα μέσα όπως το Firefly, Battlestar Galactiga, Stargate Universe και το The Expanse.
+Το κεντρικό σου σκάφος μόλις έχει επιτεθεί από μία άγνωστη οντότητα. Ευτυχώς αρκετοί επιζώντες κατάφεραν να ξεφύγουν μέσα σε ένα μικρός σκάφος. Τώρα μόνοι, πεινασμένοι και χαμένοι στο διάστημα, πρέπει να εξερευνήσεις το σύμπαν και να τους οδηγήσεις στην ασφάλεια.
+
+
+[b]Τωρινά Χαρακτηριστικά[/b]
+
+[list]
+[*]Κατασκεύασε το σκάφος σου με όποιον τρόπο διαλέψεις.
+[*]Ένας ανανεωμένος τακτικά γαλαξίας για να εξερευνήσεις κάθε φορά που παίζεις .
+[*]Γνώρισε άλλες ομάδες, φιλικές ή εχθρικές.
+[*]Διαχειρίσου την διάθεση και τις ανάγκες του πληρώματος σου.
+[*]Κάνε εμπόριο με περαστικά σκάφοι και ομάδες.
+[*]Προσομοίωση ηλεκτρικής ενέργειας. Τοποθέτησε καλώδια, γεννήτριες και μπαταρίες.
+[*].Φτειάξε την δικιά σου ιστορία κάθε φορά που παίζεις.
+[*]Εκτενής βοήθεια συντονιστών.
+[*]Συν και άλλα…
+[/list]
+
+[b]Κατασκέυασε το σκάφος σου με όποιον τρόπο σου αρέσει[/b]. Είτε θες να κατασκευάσεις ένα μικρό αλλά γρήγορο σκάφος με μικρό πλήρωμα, είτε ένα μεγάλο πολεμικό σκάφος με πολλά πληρώματα, η απόφαση είναι δική σου. Απλά εξασφάλισε να έχεις αρκετές προμήθειες για να διαχειρίζεσαι το πλήρωμα σου και να κρατάς το σκάφος σου λειτουργικό.
+Πρέπει να χρησιμοποιηθεί προσεκτική τακτική εξέτασης όσον αφορά την τοποθέτηση πορτών και ενεργειακών συστημάτων σε περίπτωση παραβιάσεων ή άλλων κινδύνων.
+
+[b]Εξερεύνησε έναν διαδικαστικά παραγωγικό γαλαξία[/b]. Κάθε φορά που παίζεις, το σύστημα παραγωγής γεγονότων του παιχνιδιού θα δημιουργεί έναν νέο γαλαξία για να εξερευνήσεις. Οποιοδήποτε επίπεδο δυσκολίας διαλέξεις θα επηρεάσει το πώς αυτός ο γαλαξίας ή τα γεγονότα του θα δημιουργούνται. 
+
+[b]Η εξερεύνηση είναι το κλειδί για την επιβίωση[/b]. Μείνε σε ένα μέρος για πολύ ή αποκλείσου και το πλήρωμα σου σίγουρα θα πεθάνει. Πρέπει να κινήσε συνέχεια και να βρίσκεις άλλα σκάφοι ή ομάδες για να κάνεις εμπόριο έτσι ώστε να επιζήσεις.
+
+[b]Ανάγκες και διαθέσεις του πληρώματος[/b]. Οι ανάγκες του πληρώματος σου πρέπει να ικανοποιούνται έτσι ώστε να μπορεί το σκάφος σου να είναι πλήρως λειτουργικό. Ένα τσαντισμένο πλήρωμα μπορεί να επαναστατήσει, να αποφασίσει ότι δεν θα εργαστεί ή να τα παρατήσει τελείως. Εξασφάλισε να έχεις αρκετό φαγητό και νερό για να ταΐζεις το πλήρωμά σου. Επίσης πρέπει να επιλέξεις τον καπετάνιο σου σοφά. 
+
+[b]Εκτενής βοήθεια συντονιστών[/b]. Όλα τα δεδομένα του παιχνιδιού είναι αποθηκευμένα σε σε JSON φακέλους. Αυτό σημαίνει ότι είναι πολύ εύκολο να γίνουν αλλαγές σε οτιδήποτε συμβαίνει αυτή την στιγμή στο παιχνίδι και ακόμα και να προστεθούν καινούργια. Στο μέλλον σχεδιάζουμε να το διευρύνουμε αυτό περαιτέρω.
+
+[b]Καταγωγή της συντονιστικής ανάπτυξης[/b]. Ο συγγραφέας του SpaceSlog έχει ξοδέψει 10 χρόνια αναπτύσσοντας με επιμέλεια μία μεγάλη και διάσημη τροποποίηση για το Mount&Blade που ονομάζεται A World of Ice and Fire. Αυτός είναι ο λόγος για τον οποίο θέλει εκτεταμένη βοήθεια συντονισμού και ελπίζοντας να καθησυχάσει το μυαλό οποιουδήποτε θέλει να αγοράσει το SpaceSlog, γνωρίζοντας ότι ο συγγραφέας είναι αφοσιωμένος και πρόθυμος να τελειώσει το έργο αυτό.
+
+
+Short description (Do not translate) (Needs to be between 200-300 characters)
+
+Build your ship, manage your crew and explore the cosmos whilst trying your best to keep your crew alive and your ship fully functioning. This game utilises an events driven AI and simulated ship systems to ensure gameplay is kept challenging and every game you play has a different story to tell.
+
+
+Why early access? (Do not translate)
+
+SpaceSlog is a complex and ambitious project being developed by one person, it has already been in development for several years and now requires the support and feedback from the community. We do not want to develop the game in a vacuum but would rather mould the game into something our fans really want to play and feel early access is the best way to achieve this.
+
+
+How long? (Do not translate)
+
+It's hard to specify a time but we plan to be in early access until roughly February 2026. We have a long list of features and ideas for the game, all of which take time to develop if we want to ensure a quality product.
+
+We strongly suggest however to only purchase the game based on what is in the game now and not what is planned for the future to avoid disappointment.
+
+
+
+Changed when finished? (Do not translate)
+
+The full version will have many more simulated systems and a much richer gameplay experience. The course of development does however change depending on feedback from our community. Below are a few things we plan to add to the game but are not guaranteed.
+
+[list]
+[*]Random encounters with planets, space monsters and other alien life forms.
+[*]Send away parties to planets and derelict ships to scavenge for supplies.
+[*]Watch relationships grow and fall between different crew members.
+[*]Many types of creatures you can tame and train.
+[*]Heat and atmosphere sim elements.
+[*]Research new technologies and use them to help your crew survive and thrive.
+[*]Tactical combat systems between ships and on foot, including breaches and landing parties.
+[*]Intricate wound and illness system.
+[*]Hydroponics and farming.
+[*]A galaxy map allowing you to plan and trace your journey.
+[*]Different alien races to discover.
+[/list]
+
+Again, these features are not guaranteed but what we would like to add in an ideal situation. Please only purchase the game based on what is in the game now and not what is planned for the future to avoid disappointment.
+
+
+
+Playable? (Do not translate)
+
+The game is currently fully playable and we do our best to ensure there are as few bugs as possible. The game does however only represent a small fraction of what we plan to achieve, which means in its current state it may be lacking in gameplay features and content.
+
+
+Price change? (Do not translate)
+
+The final price is still being decided but we plan to increase the price upon exiting early access.
+
+
+Final words. (Do not translate)
+
+We hold various polls on our discord ([url]https://discord.gg/cBNNfht[/url]) channel and encourage suggestions and feedback from our community there and also on our forums ([url]https://produnogames.com/forums[/url]), all of which we take very seriously and into careful consideration. We understand we cannot make the best game possible just by ourselves, we require vital input and feedback from all of our players to help refine and direct our game to greatness.
+We will also be showing development videos over on our YouTube ([url]https://www.youtube.com/channel/UCkj18MICGlM2i3TP_o0338w[/url]) channel.
